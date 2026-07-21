@@ -46,7 +46,7 @@
 | **[blossom](https://github.com/heebin2/blossom)** | GitHub Pages 기반 사이트 호스팅 테스트 및 이벤트 사이트 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[ecsctl](https://github.com/heebin2/ecsctl)** | AWS ECS를 관리하는 도구 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **[jiractl](https://github.com/heebin2/jiractl)** | 커맨드 셸에서 Jira 이슈를 관리하는 도구 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **[wanted](https://github.com/heebin2/wanted)** | Go로 작성한 사이드 프로젝트 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **[wanted](https://github.com/heebin2/wanted)** | 원티드에서 채용 공고를 모아 저장, MCP로 제공하는 도구 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **[auth](https://github.com/heebin2/auth)** | Kotlin 기반 인증 서비스 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **[gateway](https://github.com/heebin2/gateway)** | Kotlin 기반 API 게이트웨이 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **[skills](https://github.com/heebin2/skills)** | 개발 워크플로우용 스크립트/스킬 모음 | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
