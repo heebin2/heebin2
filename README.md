@@ -51,14 +51,3 @@
 | **[gateway](https://github.com/heebin2/gateway)** | Kotlin 기반 API 게이트웨이 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **[skills](https://github.com/heebin2/skills)** | 개발 워크플로우용 스크립트/스킬 모음 | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | **[sqlc](https://github.com/heebin2/sqlc)** | SQL로부터 타입 안전한 코드를 생성 _(fork)_ | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heebin2&show_icons=true&hide_border=true" alt="heebin2's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heebin2&layout=compact&hide_border=true" alt="heebin2's top languages" />
-</p>
