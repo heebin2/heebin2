@@ -49,6 +49,7 @@
 | **[wanted](https://github.com/heebin2/wanted)** | 원티드에서 채용 공고를 모아 저장, MCP로 제공하는 도구 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **[consumer](https://github.com/heebin2/consumer)** | 여러 Kafka 토픽을 워커 풀로 병렬 소비하는 Go 라이브러리 | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **[debezium-ui](https://github.com/heebin2/debezium-ui)** | Debezium 커넥터를 관리하는 kafka-ui 스타일 UI + CDC 데모 스택 | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[ticketing-bench](https://github.com/heebin2/ticketing-bench)** | Redis 기반 선착순 순위 게임 (Go 백엔드 + React UI 임베드) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | **[auth](https://github.com/heebin2/auth)** | Kotlin 기반 인증 서비스 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **[gateway](https://github.com/heebin2/gateway)** | Kotlin 기반 API 게이트웨이 | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | **[skills](https://github.com/heebin2/skills)** | 개발 워크플로우용 스크립트/스킬 모음 | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
