@@ -33,9 +33,9 @@
 ## 💡 Interests
 
 - 🔧 **CLI / DevTools** — 반복 작업을 자동화하고 개발 생산성을 높이는 커맨드라인 도구 제작
-- 🏗️ **Backend & MSA** — Kotlin·Spring Boot 기반의 서비스 설계와 마이크로서비스 아키텍처
-- ☁️ **Cloud & Infra** — AWS ECS, Docker 기반의 배포·운영 자동화
-- 🗄️ **Type-safe Data Access** — SQL 기반의 타입 안전한 코드 생성 및 데이터 계층 설계
+- 🏗️ **Backend & MSA** — Java, Kotlin, Go 기반의 마이크로서비스 아키텍처 서비스 설계
+- ☁️  **Cloud & Infra** — AWS ECS, Docker 기반의 배포·운영 자동화
+- 🗄️ **AI** - AI를 제품과 개발 환경에 적용
 
 ---
 
